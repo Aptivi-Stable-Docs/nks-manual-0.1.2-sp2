@@ -157,3 +157,23 @@ The following changes have been made:
 The following changes have been made:
 
 * <mark style="color:yellow;">General improvements and bug fixes</mark>
+
+### Version 0.1.2.22
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements in the splash function</mark>
+
+### Version 0.1.2.23
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Fixed CVEs:</mark> [<mark style="color:yellow;">CVE-2025-53015</mark>](https://github.com/advisories/GHSA-vmhh-8rxq-fp9g)<mark style="color:yellow;">,</mark> [<mark style="color:yellow;">CVE-2025-55004</mark>](https://github.com/advisories/GHSA-cjc8-g9w8-chfw)<mark style="color:yellow;">,</mark> [<mark style="color:yellow;">CVE-2025-55154</mark>](https://github.com/advisories/GHSA-qp29-wxp5-wh82)<mark style="color:yellow;">,</mark> [<mark style="color:yellow;">CVE-2025-55298</mark>](https://github.com/advisories/GHSA-9ccg-6pjw-x645)<mark style="color:yellow;">,</mark> [<mark style="color:yellow;">CVE-2025-57803</mark>](https://github.com/advisories/GHSA-mxvv-97wh-cfmm)
+
+### Version 0.1.2.25
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated to Terminaux 7.0</mark>
+* <mark style="color:yellow;">Fixed splash closing</mark>
+* <mark style="color:yellow;">General improvements</mark>
